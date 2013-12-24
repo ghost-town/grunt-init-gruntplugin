@@ -1,0 +1,5 @@
+{
+  "README.md": "README.md",
+  "tasks/name.js": "tasks/{%= short_name %}.js",
+  "test/name_test.js": "test/{%= short_name %}_test.js"
+}
